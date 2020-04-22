@@ -1,3 +1,3 @@
 # VideoChat_Node_WebRTC_Agora_
  
-This is readme
+Video Live Chat with **webRTC** and **Node.js**
